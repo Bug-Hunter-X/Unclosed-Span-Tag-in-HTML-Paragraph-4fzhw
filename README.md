@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML: an unclosed tag.  Specifically, a `<span>` tag is left open within a paragraph, causing rendering issues in browsers.  The `bug.html` file contains the problematic code, while `bugSolution.html` provides the corrected version.
